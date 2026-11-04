@@ -2,8 +2,9 @@
 
 Research repository for **Capability-Relative Routing: Finding the Cheapest Viable Path Through a Network of Models**.
 
-Researcher: Leo Guinan  
-Primary benchmark: LAB-Bench  
+Research lead: Ahmed Tariq
+Coauthor: Leo Guinan
+Primary benchmark: LAB-Bench
 Status: prospective; the current executable layer is a deterministic synthetic routing fixture, not benchmark evidence.
 
 ## Grant application summary
